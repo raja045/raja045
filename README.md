@@ -16,7 +16,7 @@
 | 📊 Network Traffic Monitoring and Attack Detection | <a href="https://github.com/raja045">HomeLab SOC</a>, <a href="https://github.com/raja045/NetworkSecurityScanner">Network_Scanner</a>, <a href="https://github.com/raja045/Password_Strength_Analyzer_Project">Password_Strength</a>, <a href="https://github.com/raja045/Network-Related-Projects/tree/main/Create_An_Own_VPN_Server">Own_Server</a>|
 | ⚙️ Security Automation with SOAR         | HomeLab SOC|
 | 🚨 Incident Response Planning and Execution      | HomeLab SOC|
-| 🔍 Vulnerability Assessment & Penetration Testing | Web Application Security Testing|
+| 🔍 Vulnerability Assessment & Penetration Testing | <a href="https://github.com/raja045/WebApplicationPenetrationProject">Web Application Security Project</a>, <a href="https://github.com/raja045/Web_Application_Penetration_Project">WebApplicationDocumentation</a>|
 | 🤖 Scripting and Automation for Threat Mitigation | AI Security Research & Threat Detection|
 | 💳 PCI DSS Compliance Implementation | <a href="https://github.com/raja045/SecurePaw"> Dog Adoption Website </a>|
 | Digital Forensics | <a href="https://github.com/raja045/ImageForensicsUsingMetaData">ImageForensicUsingMetaData</a>
