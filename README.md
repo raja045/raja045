@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Raja+Shekar+Reddy+Seelam;SOC+Analyst+%E2%9A%A1+Offensive+Security+Researcher;150%2B+CVEs+%E2%80%A2+50%2B+Pentests+%E2%80%A2+100%2B+Incidents+Resolved;M.S.+Cybersecurity+%E2%80%A2+FIU+%E2%80%A2+GPA+3.9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Raja+Shekar+Reddy+Seelam;Cybersecurity+%E2%9A%A1+IT+Support+%E2%9A%A1+Offensive+Security;150%2B+Vulnerabilities+Disclosed+%E2%80%A2+50%2B+Pentests;M.S.+Cybersecurity+%E2%80%A2+FIU+%E2%80%A2+GPA+3.9" alt="Typing SVG" />
 
 <!-- Decorative banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=header&text=&fontAlignY=35&fontSize=30&animation=fadeIn" width="100%" alt="banner"/>
@@ -18,7 +18,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=raja045&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/STEM%20OPT-Authorized%203%20Years-22C55E?style=for-the-badge&logo=greenhouse&logoColor=white" alt="STEM OPT"/>
-<img src="https://img.shields.io/badge/Open%20To-SOC%20Analyst%20Roles-F59E0B?style=for-the-badge&logo=opslevel&logoColor=white" alt="Open to roles"/>
+<img src="https://img.shields.io/badge/Open%20To-Cybersecurity%20%26%20IT%20Roles-F59E0B?style=for-the-badge&logo=opslevel&logoColor=white" alt="Open to roles"/>
 <img src="https://img.shields.io/badge/Location-Miami%2C%20FL%20%E2%9C%88%EF%B8%8F%20Relocation-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
@@ -30,12 +30,12 @@
 ```yaml
 👤  name:          Raja Shekar Reddy Seelam
 🎓  education:     M.S. Cybersecurity @ Florida International University (GPA 3.9, Dec 2025)
-💼  current:       SOC Analyst · Offensive Security Researcher · LLM Red-Teamer
-🎯  targeting:     SOC Analyst | Security Operations | Penetration Tester | App Sec
+💼  focus:         Security Operations · IT Support · Offensive Security · AI Security
+🎯  targeting:     SOC Analyst | Cybersecurity Analyst | IT Support Engineer | Junior Pentester
 🌎  location:      Miami, FL  →  Open to Relocation (CONUS)
 🛂  work_auth:     STEM OPT · 3 yrs authorized · No sponsorship required
-💬  ask_me_about:  SIEM/SOAR · Threat Hunting · MITRE ATT&CK · LLM Jailbreaks · CVE Disclosure
-⚡  fun_fact:      Reconstruct a full Cyber Kill Chain in <4 min from telemetry alone
+💬  ask_me_about:  SIEM/SOAR · Endpoint Support · Threat Hunting · LLM Red Teaming · Vulnerability Research
+⚡  differentiator: Offensive security depth paired with hands-on blue-team and endpoint operations
 ```
 
 <table>
@@ -44,10 +44,10 @@
 
 I'm a **defense-first security engineer with an offensive backbone** — the kind of analyst who reads detection rules *from both sides of the wire*. My day-to-day spans **SOC operations, threat hunting, incident response, penetration testing, and AI/LLM security research**.
 
-I currently anchor my work in three places:
-- 🛡️ A **production-grade HomeLab SOC** (OPNsense + Suricata + Wazuh + AD) where I run live red/blue exercises every week
-- 🔬 **FIU's Cybersecurity & Privacy Lab** as a graduate researcher on adversarial AI / LLM jailbreaks
-- 🐛 **Public bug-bounty programs** — 150+ CVEs disclosed across HackerOne, Bugcrowd, and India's NCIIPC
+My experience is anchored in three areas:
+- 🛡️ A **HomeLab SOC** (OPNsense + Suricata + Wazuh + Active Directory) used for hands-on red/blue exercises
+- 🔬 **FIU cybersecurity research** spanning adversarial AI, LLM jailbreak testing, and behavioral ML
+- 🐛 **Responsible vulnerability disclosure** — 150+ findings reported through NCIIPC, HackerOne, Bugcrowd, and OpenBugBounty
 
 I care about **measurable security outcomes**, not security theater. Every project below has hard numbers behind it.
 
@@ -68,10 +68,10 @@ I care about **measurable security outcomes**, not security theater. Every proje
 
 | 🎯 Metric | 📈 Result |
 |:---:|:---:|
-| 🐛 **CVEs Responsibly Disclosed** | `150+` (NCIIPC · HackerOne · Bugcrowd · OpenBugBounty) |
+| 🐛 **Vulnerabilities Responsibly Disclosed** | `150+` (NCIIPC · HackerOne · Bugcrowd · OpenBugBounty) |
 | 🛡️ **Penetration Tests Executed** | `50+` web · API · mobile engagements |
-| 🚨 **Security Incidents Resolved** | `100+` with **40% MTTR reduction** |
-| 📊 **Splunk Detection Improvement** | **35% faster** mean time to detect |
+| 🖥️ **Enterprise Users Supported** | `300+` with **~92% first-contact resolution** |
+| 🎫 **Helpdesk Operations** | `200+ tickets/month` with **95%+ SLA compliance** |
 | 🎓 **FIU M.S. Cybersecurity GPA** | `3.9 / 4.0` |
 | 🥷 **TryHackMe Global Rank** | **Top 6%** (`[0x9][MAGE]` · 39 rooms · 7 badges) |
 | 📜 **Active Certifications** | SC-200 · Security+ · CEPT · ITIL 4 |
@@ -84,47 +84,42 @@ I care about **measurable security outcomes**, not security theater. Every proje
 ## 💼 Experience
 
 <details open>
-<summary><b>🏢 EduGroup — Junior Cyber Security Engineer</b> · <i>Jan 2022 – Dec 2023</i></summary>
+<summary><b>🏢 EduRun Group — IT Support / Desktop Engineer</b> · <i>Jan 2022 – Dec 2023</i></summary>
 
-> **Stack:** Splunk · Wazuh · Active Directory · Nessus · Azure Key Vault · Jira
+> **Stack:** Windows 10/11 · Active Directory · Microsoft 365 · Intune · Jira · Azure Key Vault · Splunk
 
-- 🛠️ Built **Splunk dashboards + correlation alerts** → **35% faster detection**, **100+ incidents** resolved, **40% MTTR reduction**
-- 📋 Authored **IR playbooks + SOPs** aligned to **NIST CSF + ISO/IEC 27001** (closed audit-gap pre-cert)
-- 🛡️ Threat modeling + audits → **45%** reduction in undetected threat vectors, **50%** fewer high-severity exposures
-- 🔐 Administered **Active Directory** (RBAC + MFA + GPO) → **55%** drop in unauthorized-access incidents
-- 🎣 Phishing simulations across **300+ employees** → susceptibility fell **45% in 6 months**
-- 🤖 Automated **PKI cert issuance (600+/month)** via Azure Key Vault + REST → **65% faster turnaround**
+- 🎫 Delivered Tier 1/2 support for **300+ employees**, handling **200+ tickets/month** at **~92% first-contact resolution** and **95%+ SLA compliance**
+- 🖥️ Provisioned and supported **300+ Windows endpoints**; reduced new-hire device turnaround to **under 4 hours**
+- 🔐 Administered **Active Directory, GPO, RBAC, MFA, and Conditional Access** → **55% fewer unauthorized-access incidents**
+- ☁️ Supported **Microsoft 365, Exchange Online, Teams, SharePoint, OneDrive, and Intune-managed devices**
+- 🤖 Automated **PKI certificate issuance (600+/month)** through Azure Key Vault + REST → **65% faster turnaround**
+- 🛡️ Supported Splunk alert triage, Nessus remediation, patching, and phishing-awareness training for 300+ employees
 
 </details>
 
 <details>
-<summary><b>🕵️ White-Hat Security Researcher (Freelance)</b> · <i>HackerOne · Bugcrowd · NCIIPC · OpenBugBounty</i> · <i>Jun 2023 – Present</i></summary>
+<summary><b>🕵️ White-Hat Security Researcher (Freelance)</b> · <i>HackerOne · Bugcrowd · NCIIPC · OpenBugBounty</i> · <i>Jun 2023 – Dec 2023</i></summary>
 
 > **Stack:** Burp Suite · Metasploit · Subfinder · Amass · Shodan · ffuf · Python · Bash
 
 - 🎯 **50+ pentests** across web apps, APIs, mobile → **80+ critical/high vulnerabilities** discovered
-- 📤 **150+ CVEs** responsibly disclosed to NCIIPC (India's national CIIP body)
+- 📤 **150+ vulnerabilities** responsibly disclosed through NCIIPC and public bug-bounty platforms
 - 📑 CVSS-scored, **MITRE ATT&CK-mapped reports** with PoCs + remediation guidance
 - ⚡ Python+Bash recon pipelines → **40% faster** assessments at 95%+ detection accuracy
 
 </details>
 
 <details>
-<summary><b>🔬 Florida International University — LLM Security Researcher</b> · <i>Jan 2025 – Apr 2025</i></summary>
+<summary><b>🔬 Florida International University — Graduate Student Assistant</b> · <i>Feb 2024 – Dec 2025</i></summary>
 
 > **Stack:** Garak · PAIR · GCG · JailbreakBench · Stable Diffusion · PyTorch · CUDA
 
 - 🤖 Automated AI red-teaming → **45%** jailbreak detection efficiency ↑, **60%** manual testing ↓
 - 🎨 Engineered reproducible adversarial pipelines against **Stable Diffusion** text-to-image models
 - 🧪 Proposed novel **cryptographic prompt-injection** attack class + defensive mechanisms
-
-</details>
-
-<details>
-<summary><b>🔬 FIU Cybersecurity & Privacy Lab — Graduate Research Assistant</b> · <i>Jan 2024 – Jun 2024</i></summary>
-
 - 📊 Engineered + annotated a **10,000-entry** ML behavior-analysis dataset → **+18% model accuracy**
 - 🐍 Built Python analytical pipelines → accelerated team decisions by **~25%**
+- 🎓 Supported course operations through weekly student sessions, lab troubleshooting, slide updates, and rubric-based grading
 
 </details>
 
@@ -187,13 +182,31 @@ I care about **measurable security outcomes**, not security theater. Every proje
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Exchange%20Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white"/>
 <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+</p>
+
+### 🖥️ Endpoint · ITSM · Systems Administration
+<p>
+<img src="https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Group%20Policy-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira%20Service%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/ITIL%204-22C55E?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### 💻 Languages · Automation
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -244,9 +257,7 @@ I care about **measurable security outcomes**, not security theater. Every proje
 [![HomeLab](https://img.shields.io/badge/Repo-HomeLab--SOC-181717?style=flat-square&logo=github)](https://github.com/raja045/HomeLab-Security-Operations-Center)
 ![Stack](https://img.shields.io/badge/Stack-OPNsense_·_Suricata_·_Wazuh_·_AD-005571?style=flat-square)
 
-End-to-end enterprise SOC built from scratch — segmented VLANs (DMZ/LAN/Mgmt), Suricata IDS/IPS, Wazuh SIEM with custom correlation rules, Active Directory with GPO + RBAC. Run weekly red/blue exercises from an isolated Kali VM.
-
-> ⚡ **Reconstruct full Cyber Kill Chain in <4 minutes from telemetry alone.**
+End-to-end enterprise SOC built from scratch — segmented VLANs (DMZ/LAN/Mgmt), Suricata IDS/IPS, Wazuh SIEM with custom alert rules, Active Directory with GPO + RBAC, and red/blue exercises from an isolated Kali VM.
 
 </td>
 <td width="50%" valign="top">
@@ -294,7 +305,7 @@ Full PCI DSS SAQ D compliance implementation — Azure Key Vault secrets managem
 
 50+ web/API assessments mapped to **OWASP Top 10** with full kill-chain documentation, CVSS scoring, and remediation guidance.
 
-> 📤 Methodology behind the 150+ CVEs disclosed.
+> 📤 Methodology behind 150+ responsibly disclosed vulnerabilities.
 
 </td>
 <td width="50%" valign="top">
@@ -306,6 +317,27 @@ Full PCI DSS SAQ D compliance implementation — Azure Key Vault secrets managem
 Digital forensics tooling — EXIF metadata extraction + **Isolation Forest anomaly detection** to surface tampered or AI-generated imagery.
 
 > 🔎 Bridges classical forensics with ML-driven anomaly detection.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Security with AWS IAM
+[![Repo](https://img.shields.io/badge/Repo-Cloud--Security--with--IAM-181717?style=flat-square&logo=github)](https://github.com/raja045/Cloud_Security_with_IAM)
+![Stack](https://img.shields.io/badge/Stack-AWS_IAM_·_EC2_·_RBAC-FF9900?style=flat-square)
+
+Dual-environment IAM architecture with dev/prod isolation, least-privilege policies, group-based RBAC, and end-to-end permission-boundary validation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Endpoint & Identity Operations
+![Stack](https://img.shields.io/badge/Stack-AD_·_Intune_·_M365_·_Exchange-0078D4?style=flat-square)
+
+Hands-on administration across Active Directory, Group Policy, MFA/Conditional Access, Intune MDM, Microsoft 365, Exchange Online, endpoint imaging, patching, and SLA-driven Tier 1/2 support.
+
+> 🎯 Supported 300+ users and endpoints while sustaining ~92% first-contact resolution.
 
 </td>
 </tr>
@@ -351,7 +383,7 @@ Digital forensics tooling — EXIF metadata extraction + **Isolation Forest anom
 + 🏗️ Terraform / IaC Sec    — tfsec, Checkov, policy-as-code pipelines
 + 🌪️ CrowdStrike Falcon     — EDR engineering + Real-Time Response workflows
 + 🛫 Intune + ServiceNow    — endpoint management at enterprise scale
-+ 📤 First CVE acquisition  — moving from disclosure to CVE-numbered authority
++ 📤 CVE-numbered research   — progressing from responsible disclosure to assigned CVEs
 ```
 
 ---
@@ -360,7 +392,7 @@ Digital forensics tooling — EXIF metadata extraction + **Isolation Forest anom
 
 <div align="center">
 
-I'm <b>actively looking for SOC Analyst, Security Engineer, and Offensive Security roles</b> in the US. STEM OPT authorized — no sponsorship required for 3 years.
+I'm <b>actively looking for SOC Analyst, Cybersecurity Analyst, IT Support Engineer, and Junior Penetration Tester roles</b> in the US. STEM OPT authorized — no sponsorship required for 3 years.
 
 <table>
 <tr>
